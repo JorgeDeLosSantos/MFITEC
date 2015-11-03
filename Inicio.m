@@ -1,7 +1,5 @@
 function Inicio
 % Interfaz de inicio de MFITEC
-% - No se requieren argumentos de entrada
-% - Valores de retorno nulos
 %
 % $ (c) Jorge De Los Santos $
 % $ Rev. 0.1  $ $ 13/10/2014 $                                                
