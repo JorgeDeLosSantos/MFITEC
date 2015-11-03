@@ -1,0 +1,27 @@
+INDICACIONES GENERALES
+
+La función "Inicio" ejecuta la interfaz principal del programa y establece los valores iniciales
+del mismo.
+
+Las archivos de la forma "App_*" refieren a las interfaces utilizadas para la selección de datos
+disponibles.
+
+Los archivos de la forma "b_*", "tr_*" y "ta_" corresponden a las interfaces para resolver 
+problemas de bombas centrífugas, turbinas de reacción y turbinas de acción, respectivamente.
+
+
+DE LOS ARCHIVOS AUXILIARES
+
+En la ruta "data/mfun" se guardan todas las funciones y ejecutables adicionales 
+al programa principal (trazo de triangulo de velocidades, interfaz de graficación, ...
+calculo del coeficiente de pérdidas primarias, cálculo de la presion de saturación, ...
+calculadora, conversor de unidades, insercción del rango de graficación, etc).
+
+En la ruta "data/docs" se incluyen todos los documentos de texto que sirven como
+documentación del programa.
+
+En la ruta "data/imag" se guardan las imágenes e íconos que se muestran en las
+diversas interfaces.
+
+
+
