@@ -1,7 +1,7 @@
 function Inicio
 % Interfaz de inicio de MFITEC
 %
-% $ (c) Jorge De Los Santos $
+% $ (c) 2013, Jorge De Los Santos $
 % $ Rev. 0.1  $ $ 13/10/2014 $                                                
 
 %% Condiciones de inicio del programa
